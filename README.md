@@ -1,2 +1,0 @@
-# ReyesPortfolio
-For ICT
